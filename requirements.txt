@@ -1,0 +1,5 @@
+pytest==6.0.2
+pdoc==0.3.2
+pytest-cov==2.10.1
+pep8==1.7.1
+
