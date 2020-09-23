@@ -7,7 +7,7 @@ class VariousMethods:
 
 
     def ConvertToAtlasCopcoString(self, toConvert):
-    # hi
+    
 
         if toConvert < 1 or toConvert > 100:
             raise ValueError ("numberToConvert was outside of the valid range")
